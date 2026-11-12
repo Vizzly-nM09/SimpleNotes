@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Type your note here...</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all notes</string>
+    <string name="delete_all_confirmation_title">Delete all notes?</string>
+    <string name="delete_all_confirmation_message">This will permanently remove all your notes.</string>
+    <string name="delete_note_confirmation_title">Delete note?</string>
+    <string name="delete_note_confirmation_message">Are you sure you want to delete this note?</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_hint">Search notes...</string>
+    <string name="empty_notes_title">No notes yet</string>
+    <string name="empty_notes_subtitle">Tap the plus button to write down your thoughts.</string>
+    <string name="note_saved">Note saved</string>
+    <string name="note_updated">Note updated</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="all_notes_deleted">All notes deleted</string>
+    <string name="undo">Undo</string>
+    <string name="title_required">Please enter a title</string>
+    <string name="fab_content_description">Create new note</string>
+    <string name="back_content_description">Navigate up</string>
+</resources>
