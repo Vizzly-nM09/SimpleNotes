@@ -16,3 +16,4 @@ local.properties
 .agent
 *.md 
 *.pdf
+!README.md
